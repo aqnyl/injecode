@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://1831981212.v.123pan.cn/1831981212/server_images/xtnserver/injecode/introduce/logo/icon.webp" width="120" alt="Injecode Logo">
+  <img src="./resources/icon.webp" width="120" alt="Injecode Logo">
   <h1>Injecode</h1>
 </div>
 
